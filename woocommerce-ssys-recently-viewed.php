@@ -23,9 +23,7 @@
  */
  
 // If this file is called directly, abort.
-if ( ! defined( 'WPINC' ) ) {
-	die;
-}
+if ( ! defined( 'WPINC' ) ) { die; }
 
 add_action('plugins_loaded', 'woocommerce_ssys_recently_viewed_init', 0);
 require_once( plugin_dir_path( __FILE__ ) . 'ssys-recently-viewed-widget.php' );
