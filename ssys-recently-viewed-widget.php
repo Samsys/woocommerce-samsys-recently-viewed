@@ -10,7 +10,6 @@
  * @link      http://samsys.pt
  * @copyright 2013 Samsys - Consultoria e Soluções Informáticas, Lda.
  */
-
 function register_ssys_WC_recently_viewed_widget() {
     register_widget( 'Ssys_WC_Recently_Viewed' );
 }
