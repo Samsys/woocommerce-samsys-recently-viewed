@@ -61,3 +61,5 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 
 = 1.0 =
 * Initial plugin version
+
+== Upgrade Notice ==
