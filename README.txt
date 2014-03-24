@@ -1,4 +1,4 @@
-=== WooCommerce Recently Viewed Products from all visitor by Samsys ===
+=== WooCommerce Recently Viewed Products from all visitors by Samsys ===
 Contributors: samsys, ricardocorreia
 Donate link: http://example.com/
 Tags: woocommerce, recently viewed, all visitors
